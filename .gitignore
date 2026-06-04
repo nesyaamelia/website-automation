@@ -1,0 +1,14 @@
+target/
+*.class
+*.jar
+.env
+*.env.local
+.idea/
+*.iml
+.vscode/
+.DS_Store
+allure-results/
+allure-report/
+playwright-report/
+*.log
+logs/
